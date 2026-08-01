@@ -8,7 +8,7 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)
  
-> An end-to-end **machine learning pipeline** that predicts patient no-show probability across 18,000 synthetic appointment records, explains *why* a patient might not show up using **SHAP**, and runs a **smart overbooking simulation** that fills empty clinic slots while minimising double-booking conflicts — turning missed appointments into improved healthcare access.
+> An end-to-end **machine learning pipeline** that predicts patient no-show probability across 18,000 synthetic appointment records, explains *why* a patient might not show up using **SHAP**, and runs a **smart overbooking simulation** that fills empty clinic slots while minimising double-booking conflicts turning missed appointments into improved healthcare access.
  
 </div>
 ---
