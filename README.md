@@ -258,7 +258,25 @@ result = predict_no_show(pipeline, patient)
 **Current Limitations:**
 - The dataset is **fully synthetic**, so absolute performance figures are illustrative rather than a guarantee on real clinic data
 - The overbooking simulation assumes **static risk scores** and does not model real-time schedule changes or cancellations
-- No **time-series component** — the model treats each appointment independently rather than tracking patient behaviour trends over time
+- No **time-series component** the model treats each appointment independently rather than tracking patient behaviour trends over time
+- SHAP explanations are generated for the **Random Forest model only**, not cross-validated across all three model types
+
+**Future Improvements:**
+- 🌲 Add **LightGBM and CatBoost** to the model comparison, along with neural network baselines
+- 📈 Incorporate **time-series analysis** of no-show trends per patient and per clinic
+- 🔗 Integrate with **real clinic scheduling systems** for live prediction and overbooking
+- 📊 Build a **Streamlit dashboard** for interactive, real-time no-show predictions
+- 🧪 Validate the overbooking strategy against **real-world pilot data**
+- 📱 Expand reminder interventions beyond SMS to include app notifications and automated calls
+
+---
+
+## ⚠️ Limitations & Future Work
+
+**Current Limitations:**
+- The dataset is **fully synthetic**, so absolute performance figures are illustrative rather than a guarantee on real clinic data
+- The overbooking simulation assumes **static risk scores** and does not model real-time schedule changes or cancellations
+- No **time-series component** the model treats each appointment independently rather than tracking patient behaviour trends over time
 - SHAP explanations are generated for the **Random Forest model only**, not cross-validated across all three model types
 
 **Future Improvements:**
