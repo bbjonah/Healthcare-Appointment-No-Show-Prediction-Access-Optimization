@@ -292,7 +292,7 @@ Contributions are welcome! Open an issue or pull request for:
 
 ## 📄 License
 
-This project is licensed under the **MIT License** — free to use, adapt, and build upon for research, education, and healthcare access analytics.
+This project is licensed under the **MIT License** free to use, adapt, and build upon for research, education, and healthcare access analytics.
 See the [LICENSE](LICENSE) file for full details.
 
 ---
