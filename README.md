@@ -119,11 +119,11 @@ All data is a **fully reproducible, privacy-safe synthetic dataset** generated f
 
 Understanding *why* a model predicts a no-show is critical for clinical trust. SHAP analysis reveals the top drivers of no-shows:
 
-1. **Previous No-Shows** — past behaviour is the strongest predictor
-2. **Appointment Lead Time** — longer waits correlate with higher risk
-3. **Distance from Clinic** — patients farther away are less likely to attend
-4. **SMS Reminder** — a strong protective factor that reduces no-show risk
-5. **Insurance Type** — uninsured patients show higher no-show rates
+1. **Previous No-Shows:** past behaviour is the strongest predictor
+2. **Appointment Lead Time:** longer waits correlate with higher risk
+3. **Distance from Clinic:** patients farther away are less likely to attend
+4. **SMS Reminder:** a strong protective factor that reduces no-show risk
+5. **Insurance Type:** uninsured patients show higher no-show rates
 
 ---
 
