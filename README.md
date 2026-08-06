@@ -69,9 +69,9 @@ All data is a **fully reproducible, privacy-safe synthetic dataset** generated f
 
 - **Language:** Python
 - **Data Processing:** Pandas, NumPy
-- **Machine Learning:** Scikit-learn — pipelines, preprocessing, cross-validation
+- **Machine Learning:** Scikit-learn pipelines, preprocessing, cross-validation
 - **Gradient Boosting:** XGBoost
-- **Explainable AI:** SHAP — summary and bar plots, per-patient explanations
+- **Explainable AI:** SHAP summary and bar plots, per-patient explanations
 - **Visualisation:** Matplotlib, Seaborn
 - **Model Selection:** 5-fold cross-validation across 3 candidate models
 
