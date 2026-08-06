@@ -37,7 +37,7 @@ Clinics typically respond with uniform overbooking or blanket reminder campaigns
 
 ## 🗂️ Dataset
 
-All data is a **fully reproducible, privacy-safe synthetic dataset** generated for this project — no real patient records are used.
+All data is a **fully reproducible, privacy-safe synthetic dataset** generated for this project no real patient records are used.
 
 | Parameter | Value |
 |-----------|-------|
